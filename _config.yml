@@ -9,18 +9,13 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
- - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+ - title: Criador
+   url: https://lordz7.github.io/Website/
+ - title: Add Bot
+   url: https://top.gg/bot/990255448961732628
+ - title: Support Server
+   url: https://discord.gg/KDgZwYZwy5
+
 
 #Any buzzword skills you want to include
 skills:
