@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Termos De Uso
+twitter_username: @vhenrmoralles
+name: Cj Rebaixado
 
 # Build settings
 markdown: kramdown
@@ -117,9 +117,18 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+Para disponibilizar nossos serviços, precisamos coletar alguns dados de nossos usuários. Nós não coletamos dados que não serão necessários para o funcionamento de nossos serviços. Precisamos deixar claro que, este documento pode ser alteado a qualquer momento, por isso, auxiliamos que sempre que for utilizar de nossos serviços, cheque este documento para entender como nós tratamos o que usamos.
+Dados que Coletamos
+Nós armazenamos somente seu ID/Nick do Discord, que é uma informação pública que todos possuem acesso. Este é o único dado dos usuários que nós coletamos e armazenamos para conseguir identificar e ordenar informações do banco de dados referentes a cada perfil.
+
+Proteção de Dados
+Todos os dados são acessíveis por e somente Um indivíduo (Para o dono Do Cj Rebaixado). Ele garante que nenhum dado será distribuído, vendido ou doado para terceiros. Ele também demonstra que os dados estão salvos de forma segura em um Banco de Dados robusto em questões de segurança.
+
+Serviços de Terceiros
+Cj Rebaixado é um aplicativo que roda dentro do Discord, por isso, segue as regras e normas de lá, assim como seus usuários o devem fazer.
+
+Exclusão de Dados
+O usuário pode ter seus dados apagados Da Aplicação a qualquer momento enviando Uma solicitação Direta via DM com o desenvolvedor ou via support server no menu de ajuda.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
