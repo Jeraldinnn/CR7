@@ -1,1 +1,1 @@
-https://lordz7.github.io/Website/
+https://lordz7.Cr7
