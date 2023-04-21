@@ -10,11 +10,11 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Criador
-   url: https://lordz7.github.io/Website/
+   url: https://discord.com/users/528250007636148224
  - title: Add Bot
-   url: https://top.gg/bot/990255448961732628
+   url: https://discord.com/api/oauth2/authorize?client_id=1038558958975193148&permissions=1103001676918&scope=bot%20applications.commands
  - title: Support Server
-   url: https://discord.gg/KDgZwYZwy5
+   url: https://discord.gg/u7AYSSUcXz
 
 
 #Any buzzword skills you want to include
@@ -116,7 +116,7 @@ intro: |
   <strong>Dados que Coletamos</strong>: Nós armazenamos somente seu ID/Nick do Discord, que é uma informação pública que todos possuem acesso. Este é o único dado dos usuários que nós coletamos e armazenamos para conseguir identificar e ordenar informações do banco de dados referentes a cada perfil. <br/><br/>
   <strong>Proteção de Dados</strong>: Todos os dados são acessíveis por e somente Um indivíduo (Para o dono Do CR7). Ele garante que nenhum dado será distribuído, vendido ou doado para terceiros. Ele também demonstra que os dados estão salvos de forma segura em um Banco de Dados robusto em questões de segurança. <br/><br/>
   <strong>Serviços de Terceiros</strong>: CR7 é um aplicativo que roda dentro do Discord, por isso, segue as regras e normas de lá, assim como seus usuários o devem fazer. <br/><br/>
-  <strong>Exclusão de Dados</strong>: O usuário pode ter seus dados apagados Da Aplicação a qualquer momento enviando Uma solicitação Direta via DM com o desenvolvedor ou via <a target="_blank" href="https://discord.gg/KDgZwYZwy5"> Support Server</a> no menu de ajuda. 
+  <strong>Exclusão de Dados</strong>: O usuário pode ter seus dados apagados Da Aplicação a qualquer momento enviando Uma solicitação Direta via DM com o desenvolvedor ou via <a target="_blank" href="https://discord.gg/u7AYSSUcXz"> Support Server</a> no menu de ajuda. 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
   Ao utilizar qualquer serviço do CR7, você deve ter a conciência de tudo que você pode e não pode fazer. Ao utilizá-la, levamos em conta que você LEU e CONCORDA com todos estes termos.<br/><br/>
