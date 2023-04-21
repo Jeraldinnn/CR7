@@ -1,1 +1,1 @@
-https://diretrizes.Cr7
+https://lordz7.Cr7
